@@ -1,5 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 IP-CIDR,182.134.132.0/24,no-resolve
+DOMAIN-SUFFIX,bptv.freetv.top
+IP-CIDR,222.215.100.0/24,no-resolve
 
 # MyList
 # 域名后缀匹配
