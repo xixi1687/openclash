@@ -3,6 +3,7 @@ IP-CIDR,182.134.132.0/24,no-resolve
 DOMAIN-SUFFIX,bptv.freetv.top
 IP-CIDR,222.215.100.0/24,no-resolve
 DOMAIN-SUFFIX,51y5.net
+DOMAIN-SUFFIX,ipinfo.io
 
 # MyList
 # 域名后缀匹配
