@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,raidrive.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,cloudflare
+#DOMAIN-KEYWORD,cloudflare
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
