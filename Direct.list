@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,84224031.xyz
 IP-CIDR,192.168.11.0/24,no-resolve
+DOMAIN-SUFFIX,sys-metric-report.com
+DOMAIN-SUFFIX,jueduibupao.top
+DOMAIN-SUFFIX,xxxyun.top
+DOMAIN-SUFFIX,6bnw.top
 
 # MyList
 # 域名后缀匹配
