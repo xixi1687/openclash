@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,sideloadly.io
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,188766.xyz
 DOMAIN-SUFFIX,api.hichatapi.info
-DOMAIN-SUFFIX,jsdelivr.com
+
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,kanliao
+DOMAIN-KEYWORD,coke
+DOMAIN-KEYWORD,cokecloud
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
