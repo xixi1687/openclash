@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,sys-metric-report.com
 DOMAIN-SUFFIX,jueduibupao.top
 DOMAIN-SUFFIX,xxxyun.top
 DOMAIN-SUFFIX,6bnw.top
+IP-CIDR,8.217.98.112/32,no-resolve
+DOMAIN-SUFFIX,sys-metric-report.com
 
 # MyList
 # 域名后缀匹配
